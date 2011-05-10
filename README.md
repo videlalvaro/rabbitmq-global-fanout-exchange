@@ -1,6 +1,6 @@
 # RabbitMQ Global Fanout Exchange #
 
-Fanouts a message to **every queue in the broker** no matter the bindings. Created upon request from [@michaelklishin](http://twitter.com/#!/michaelklishin) during a fun chat at #rabbitmq on Freenode.
+Fanouts a message to **every queue in the broker** no matter the bindings, nor the vhost. Created upon request from [@michaelklishin](http://twitter.com/#!/michaelklishin) during a fun chat at #rabbitmq on Freenode.
 
 **Use with care!** It was deveoped in under 30 minutes.
 
