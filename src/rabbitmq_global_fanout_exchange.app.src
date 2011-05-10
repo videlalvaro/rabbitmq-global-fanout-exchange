@@ -1,0 +1,10 @@
+{application, rabbitmq_global_fanout_exchange,
+ [
+  {description, "RabbitMQ Global Fanout Exchange"},
+  {vsn, "0.1.0"},
+  {modules, []},
+  {registered, []},
+  {env, []},
+  {applications, [kernel, stdlib, rabbit, mnesia]}
+ ]
+}.
